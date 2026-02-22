@@ -1,6 +1,6 @@
 ## Projeto Integrador do curso de Desenvolvimento de Softwares Multiplataforma da FATEC Luigi Papaiz
 
-### 🔗 Link para acesso da plataforma: [Atlas Connect]()
+### 🔗 Link para acesso da plataforma: [Atlas Connect](https://camillamksantos.github.io/atlas-connect/)
 
 ## 📄 Descrição
 
