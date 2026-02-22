@@ -10,9 +10,9 @@
 
 ### 👥 Membros do projeto:
 - Camilla Midori Kanashiro Santos
-- Helder
+- Helder Virissio Araujo
 - Michael Douglas Dantas da Silva
-- Yasmin
+- Yasmin Rodrigues de Andrade
 
 -------------------------------------------------------------------
 
