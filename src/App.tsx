@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router";
+import { HashRouter, Routes, Route } from "react-router";
 import './App.css'
 import Home from './pages/Home/Home'
 import Countries from './pages/Countries/Countries'
@@ -14,7 +14,7 @@ import Usa from './pages/Country/Usa';
 function App() {
   
   return (
-    <BrowserRouter>
+    <HashRouter>
       <NavBar />
 
       <div className='mt-50 ml-50'>
@@ -33,7 +33,7 @@ function App() {
       
       
 
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
